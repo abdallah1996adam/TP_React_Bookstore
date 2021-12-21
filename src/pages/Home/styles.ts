@@ -12,6 +12,17 @@ export const useStyles = makeStyles({
       height: 48,
       padding: '0 30px',
     },
-  });
+    Home:{
+      display:"flex",
+      
+      width:"100%",
+ } ,
+ HomeRight:{
+  width:"20%",
+} ,
+HomeLeft:{
+  width:"70%",
+} ,
+ });
 
  
