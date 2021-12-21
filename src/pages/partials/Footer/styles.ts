@@ -13,5 +13,3 @@ export const useStyles = makeStyles({
       padding: '0 30px',
     },
   });
-
- 
